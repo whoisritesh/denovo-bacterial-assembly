@@ -1,0 +1,5 @@
+--- DE NOVO ASSEMBLY REPORT ---
+Total Length: 440523565
+Contig Count: 13219203
+Max Contig: 70
+N50: 31
